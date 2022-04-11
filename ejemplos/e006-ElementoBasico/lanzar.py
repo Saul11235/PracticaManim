@@ -1,3 +1,3 @@
 from os import system
 
-system("manim escena.py -p ")
+system("manim escena.py -lp ")
