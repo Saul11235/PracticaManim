@@ -4,6 +4,11 @@ from manim import *
 OPCIONES="-pql"
 ESCENAS="MiEscena"
 
+# Los Mobjects son 
+#
+#
+#
+
 class MiEscena(Scene):
     def construct(self):
         #definir objs
